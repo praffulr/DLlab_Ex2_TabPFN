@@ -1,0 +1,2 @@
+1. https://stackoverflow.com/questions/65470807/how-to-add-a-new-dimension-to-a-pytorch-tensor
+2. https://numpy.org/doc/stable/user/basics.broadcasting.html
